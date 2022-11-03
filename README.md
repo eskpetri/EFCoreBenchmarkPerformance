@@ -2,8 +2,14 @@
 I start studying and then implementing testing EF Core performance by benchmarking actions. As a base I use https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance with video https://www.youtube.com/watch?v=C9Fnysvvgvg&ab_channel=SSWTV%7CVideosfordevelopers%2Cbydevelopers <br/><br/>
 This should take a week or so. Have to see are thing going smoothly. 
 
+## Basic requirements
+-SQL Server for SalesDB (it's .bak file https://stackoverflow.com/questions/1535914/import-bak-file-to-a-database-in-sql-server)<br/>
+-https://github.com/codesenberg/bombardier for http request (connections and request etc) benchmarking<br/>
+-- https://go.dev/dl/ install go(programming language) before Bombardier<br/>
+-- go install github.com/codesenberg/bombardier@latest <-- installs bombardier <br/>
 
 # Original readme.md
+https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance
 # EFCoreSamples.StabilityAndPerformance
 Showing bad and good examples for EF Core that impacts stability and performance of the applications
 
