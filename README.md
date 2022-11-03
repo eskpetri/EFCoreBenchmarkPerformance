@@ -1,3 +1,9 @@
+# EF Core Benchmark Performance
+I start studying and then implementing testing EF Core performance by benchmarking actions. As a base I use https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance with video https://www.youtube.com/watch?v=C9Fnysvvgvg&ab_channel=SSWTV%7CVideosfordevelopers%2Cbydevelopers <br/><br/>
+This should take a week or so. Have to see are thing going smoothly. 
+
+
+# Original readme.md
 # EFCoreSamples.StabilityAndPerformance
 Showing bad and good examples for EF Core that impacts stability and performance of the applications
 
