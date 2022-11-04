@@ -7,6 +7,9 @@ This should take a week or so. Have to see are thing going smoothly.
 -https://github.com/codesenberg/bombardier for http request (connections and request etc) benchmarking<br/>
 -- https://go.dev/dl/ install go(programming language) before Bombardier<br/>
 -- go install github.com/codesenberg/bombardier@latest <-- installs bombardier <br/>
+--- To run bombardier scripts in powershell https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2  --> Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser and remove after usage Set-ExecutionPolicy -ExecutionPolicy Undefined -Scope CurrentUser <br/>
+--- set Path to bombardier in powershell $env:Path += ';C:\Users\YourUsernameInWindows\go\bin' bombardier.exe is in that folder from installion <br/>
+Now you are able to run scripts like .ps1 files
 
 # Original readme.md
 https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance
