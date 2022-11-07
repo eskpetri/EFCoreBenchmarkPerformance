@@ -1,6 +1,6 @@
 # EF Core Benchmark Performance
 I start studying and then implementing testing EF Core performance by benchmarking actions. As a base I use https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance with video https://www.youtube.com/watch?v=C9Fnysvvgvg&ab_channel=SSWTV%7CVideosfordevelopers%2Cbydevelopers <br/><br/>
-This should take a week or so. Have to see are thing going smoothly. 
+This should take a week or so. Have to see are thing going smoothly. Putting this on hold until previous project have been done better. 
 
 ## Basic requirements
 -SQL Server for SalesDB (it's .bak file https://stackoverflow.com/questions/1535914/import-bak-file-to-a-database-in-sql-server)<br/>
