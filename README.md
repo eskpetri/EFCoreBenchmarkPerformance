@@ -12,6 +12,9 @@ This should take a week or so. Have to see are thing going smoothly. Putting thi
 Now you are able to run scripts like .ps1 files. --http2 flag needs to added to bombardier command to work. <br/>
 Overwhelmed my machine - used all memory and prosessor time. Processor	11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz, 2419 Mhz, 4 Core(s), 8 Logical Processor(s) and 16GB RAM. Stopped API process to make computer usable. Have to reduce number of connections to 2. I tought that my machine is quite good - for laptop yes. Maybe I have to make my son gaming computer part time server to test endurance. Then the 16GB RAM expancion seems double interest. Due swapping at laptop made performance nowhere. Still SSD is nowhere close to RAM but much better than without SSD.
 
+## Bombardier commands help
+https://pkg.go.dev/github.com/codesenberg/bombardier#section-readme
+
 # Original readme.md
 https://github.com/jernejk/EFCoreSamples.StabilityAndPerformance
 # EFCoreSamples.StabilityAndPerformance
